@@ -1,3 +1,12 @@
 body{
     background:white url(http://wallpapercave.com/wp/S6zUsH8.jpg);
 }
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family: 'satisfy', cursive;
+}
+ 
